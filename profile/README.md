@@ -43,7 +43,7 @@ Chat with AI Agents using DeltaV; the gatewaye to the AI-Engine:
 
 Essential reading:
 - [`Create an agent↗️`](https://fetch.ai/docs/guides/agents/create-a-uagent) - A simple guide to get you moving quickly 
-- [`What is AI Engine↗️`](https://fetch.ai/docs/concepts/ai-engine/ai-engine-intro) - build language agents as graphs 
+- [`What is AI Engine↗️`](https://fetch.ai/docs/concepts/ai-engine/ai-engine-intro) - Our AI multi-model system, utilising LLMs. 
 - [`What is Fetch.AI↗️`](https://fetch.ai/docs/concepts/introducing-fetchai) - Our tech stack and ecosystem. 
 
 Web3: 
