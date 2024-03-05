@@ -1,10 +1,10 @@
 <h3 align="center">
   <img
-    src="https://raw.githubusercontent.com/fetchai/.github/main/profile/primary_logo_white.svg#gh-dark-mode-only"
+    src="https://github.com/fetchai/.github/blob/main/primary_logo_white.svg"
     height="110"
   />
   <img
-    src="https://raw.githubusercontent.com/fetchai/.github/main/profile/primary_logo_navy.svg#gh-light-mode-only"
+    src="https://github.com/fetchai/.github/blob/main/primary_logo_navy.svg#gh-light-mode-only"
     height="110"
   />
 </h3>
