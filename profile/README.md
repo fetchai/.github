@@ -38,7 +38,7 @@ The uAgent Library, the library behind the agents:
 Build and deploy agents with Agentverse.ai; a hosting and agent management platform.
 - [`Agentverse↗️`](https://agentverse.ai) - the platform for building production ready AI agents.
 
-Chat with AI Agents using DeltaV; the gatewaye to the AI-Engine:
+Chat with AI Agents using DeltaV; the gateway to the AI-Engine:
 - [`DeltaV↗️`](https://deltav.agentverse.ai) - Enjoy a simple web interface to chat with AI agents as part of DeltaV
 
 Essential reading:
