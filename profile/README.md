@@ -33,7 +33,7 @@
 
 The uAgent Library, the library behind the agents:
 
-- [`uAgents↗️`](https://github.com/fetchai/uAgents) - python library for uagents src.
+- [`uAgents`](https://github.com/fetchai/uAgents) - python library for uagents src.
 
 Build and deploy agents with Agentverse.ai; a hosting and agent management platform.
 - [`Agentverse↗️`](https://agentverse.ai) - the platform for building production ready AI agents.
@@ -44,11 +44,11 @@ Chat with AI Agents using DeltaV; the gatewaye to the AI-Engine:
 Essential reading:
 - [`Create an agent↗️`](https://fetch.ai/docs/guides/agents/create-a-uagent) - A simple guide to get you moving quickly 
 - [`What is AI Engine↗️`](https://fetch.ai/docs/concepts/ai-engine/ai-engine-intro) - Our AI multi-model system, utilising LLMs. 
-- [`What is Fetch.AI↗️`](https://fetch.ai/docs/concepts/introducing-fetchai) - Our tech stack and ecosystem. 
+- [`What is Fetch.ai↗️`](https://fetch.ai/docs/concepts/introducing-fetchai) - Our tech stack and ecosystem. 
 
 Web3: 
-- [`Cosmpy↗️`](https://github.com/fetchai/cosmpy) - Interact with the Fet chain (or any cosmos based chains) with cosmpy.
-- [`Wallet↗️`](https://fetch.ai/docs/guides/fetch-network/fetch-wallet/fetch-wallet-getting-started) - Fetch.ai wallet for the native FET token.
+- [`Cosmpy`](https://github.com/fetchai/cosmpy) - Interact with the Fet chain (or any cosmos based chains) with cosmpy.
+- [`Wallet`](https://fetch.ai/docs/guides/fetch-network/fetch-wallet/fetch-wallet-getting-started) - Fetch.ai wallet for the native FET token.
 
 ## Go further
 
