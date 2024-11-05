@@ -45,7 +45,7 @@ Essential reading:
 
 Web3: 
 - [`Cosmpy`](https://github.com/fetchai/cosmpy) - Interact with the Fet chain (or any cosmos based chains) with cosmpy.
-- [`Wallet`](https://fetch.ai/docs/guides/fetch-network/fetch-wallet/fetch-wallet-getting-started) - Fetch.ai wallet for the native FET token.
+- [`Wallet`](https://fetch.ai/docs/guides/fetch-network/fetch-wallet/web-wallet/get-started) - ASI Alliance Wallet for the native FET token.
 
 ## Go further
 
