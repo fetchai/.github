@@ -24,32 +24,31 @@
   </p>
 </div>
 
-<h3 align="center" style="margin-bottom: 40px; font-weight: lighter">
-  <p>Fetch.ai's vision is to create an AI-empowered platform that can connect services and APIs without any domain knowledge. Our technology is built on four key components: AI Agents, the Agentverse, the AI Engine, and the Fetch Network. AI Agents are independent decision-makers that connect to the network and represent data, APIs, services and people, while the Agentverse serves as a development platform for these agents. The AI Engine links human input to AI actions, and the Fetch Network underpins the entire system, ensuring smooth operation and integration.</p>
+<h3 align="left" style="margin-bottom: 40px; font-weight: lighter">
+  <p>Fetch.ai's vision is to create an AI-empowered platform that can connect services and APIs without any domain knowledge. Our technology is built on four key components: AI Agents, the Agentverse, the ASI:X family of Agentic LLMs, and the Fetch Network. 
+    
+AI Agents are independent decision-makers that connect to the network and represent data, APIs, services and people, while the Agentverse serves as a hosting and agent management platform for these agents. The ASI:One links human input to AI actions, and the Fetch Network provides trust, immutibility and traceability, ensuring smooth operation and integration.</p>
 </h3>
 
-The uAgent Library, the library behind the agents:
+The uAgent Library enables you to create agents:
 
 - [`uAgents`](https://github.com/fetchai/uAgents) - python library for uagents src.
 
-Build and deploy agents with Agentverse.ai; a hosting and agent management platform.
-- [`Agentverse↗️`](https://agentverse.ai) - the platform for building production ready AI agents.
+Build and deploy agents with Agentverse; a hosting and agent management platform.
+- [Agentverse ↗](https://agentverse.ai) - the platform for building production ready AI agents.
 
-Chat with AI Agents using DeltaV; the gateway to the AI-Engine:
-- [`DeltaV↗️`](https://deltav.agentverse.ai) - Enjoy a simple web interface to chat with AI agents as part of DeltaV
+Chat with AI Agents using ASI:One:
+- [ASI:One ↗](https://asi1.ai) - Enjoy a simple web interface to chat with AI agents as part of ASI:One
 
 Essential reading:
-- [`Create an agent↗️`](https://fetch.ai/docs/guides/agents/create-a-uagent) - A simple guide to get you moving quickly 
-- [`What is AI Engine↗️`](https://fetch.ai/docs/concepts/ai-engine/ai-engine-intro) - Our AI multi-model system, utilising LLMs. 
-- [`What is Fetch.ai↗️`](https://fetch.ai/docs/concepts/introducing-fetchai) - Our tech stack and ecosystem. 
+- [Documentation ↗](https://fetch.ai/docs) - Our tech stack and ecosystem. 
+- [What is ASI:One ↗](https://docs.asi1.ai/docs) - Our Web3-native Large Language Model (LLM) designed specifically for agentic AI 
+- [Create an agent ↗](https://uagents.fetch.ai/docs/getting-started/create) - A simple guide to get you moving quickly 
 
 Web3: 
-- [`Cosmpy`](https://github.com/fetchai/cosmpy) - Interact with the Fet chain (or any cosmos based chains) with cosmpy.
-- [`Wallet`](https://fetch.ai/docs/guides/fetch-network/fetch-wallet/web-wallet/get-started) - ASI Alliance Wallet for the native FET token.
+- [`Cosmpy`](https://github.com/fetchai/cosmpy) - Interact with the ASI chain (or any cosmos based chains) with cosmpy.
+- [Wallet ↗](https://fetch.ai/get-asi-wallet) - ASI Alliance Wallet for the native FET token.
 
 ## Go further
 
-
 [Company Website ↗](https://fetch.ai) - Fetch.AI organisation and company info
-
-[Integrations ↗](https://fetch.ai/integrations) - Quickly build on top of integrations shared by our community.
