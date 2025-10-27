@@ -40,7 +40,7 @@ Every AI created can chat and transact with any AI in the network.
 
 ## Web3: 
 - [Wallet ↗](https://fetch.ai/get-asi-wallet) - ASI Alliance Wallet for the native FET token.
-- [`Cosmpy`](https://github.com/fetchai/cosmpy) - Interact with the ASI chain (or any cosmos based chains) with cosmpy.
+- [Cosmpy](https://github.com/fetchai/cosmpy) - Interact with the ASI chain (or any cosmos based chains) with cosmpy.
 
 ## Go further
 [Company Website ↗](https://fetch.ai) - Fetch.AI organization and company info
