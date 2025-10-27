@@ -30,7 +30,7 @@ Fetch.ai's vision is that every individual, business, and thing will have an AI 
 ## Developer Tools
 - [ASI Family of Models](https://docs.asi1.ai) - Our Web3-native Large Language Model (LLM) designed specifically for agentic AI 
 - [uAgents Framework](https://github.com/fetchai/uAgents) - The uAgent Library enables you to create agents with transaction, chat, and collaboration tools included.
-- [Create an agent](https://uagents.fetch.ai/docs/getting-started/create) - A simple guide to get you moving quickly 
+- [Create an agent](https://innovationlab.fetch.ai/resources/docs/agent-creation/uagent-creation) - A simple guide to get you moving quickly 
 
 ## Products
 Every AI created can chat and transact with any AI in the network.
